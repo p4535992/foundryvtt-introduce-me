@@ -1,3 +1,7 @@
+### 0.9.11
+
+- Ready for a new beginning
+
 ### 0.9.10
 
 - Replace less files with scss files
