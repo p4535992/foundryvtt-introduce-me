@@ -1,3 +1,7 @@
+### 0.9.12
+
+- Update manifest v12
+
 ### 0.9.11
 
 - Ready for a new beginning
